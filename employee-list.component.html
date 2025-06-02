@@ -1,0 +1,40 @@
+<table>
+  <thead>
+    <tr>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Address</th>
+      <th>Aliases</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let e of employees">
+      <td>{{e.firstName}}</td>
+      <td>{{e.lastName}}</td>
+
+      <td>
+        {{e.street}}, {{e.city}}, {{e.state}}, {{e.zipCode}}   
+      </td>
+
+      <td>
+        {{e.aliases.join(', ')}}
+      </td>
+
+      <td>
+        <button (click)="edit(e.id!)">Edit</button>
+      </td>
+
+      <td>
+        <button (click)="details(e.id!)">Details</button>
+      </td>
+
+      <td>
+        <button (click)="delete(e.id!)">Delete</button>
+      </td>
+    </tr>
+
+
+  </tbody>
+</table>
