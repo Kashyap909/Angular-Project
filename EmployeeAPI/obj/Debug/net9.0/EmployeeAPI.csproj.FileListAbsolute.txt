@@ -1,0 +1,108 @@
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.csproj.AssemblyReference.cache
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.AssemblyInfoInputs.cache
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.AssemblyInfo.cs
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.csproj.CoreCompileInputs.cache
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.staticwebassets.endpoints.json
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.exe
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.deps.json
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.runtimeconfig.json
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.dll
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.pdb
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\scopedcss\bundle\EmployeeAPI.styles.css
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\staticwebassets\msbuild.EmployeeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\staticwebassets\msbuild.EmployeeAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.EmployeeAPI.props
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeAPI.props
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EmployeeAPI.props
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\Employee.D48F0156.Up2Date
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.dll
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\refint\EmployeeAPI.dll
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.pdb
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.genruntimeconfig.cache
+C:\Users\kashy\OneDrive\Desktop\Employee Angular\EmployeeAPI\obj\Debug\net9.0\ref\EmployeeAPI.dll
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.staticwebassets.endpoints.json
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.exe
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.deps.json
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.runtimeconfig.json
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.dll
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.pdb
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.csproj.AssemblyReference.cache
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.AssemblyInfoInputs.cache
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.AssemblyInfo.cs
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.csproj.CoreCompileInputs.cache
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\scopedcss\bundle\EmployeeAPI.styles.css
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\staticwebassets\msbuild.EmployeeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\staticwebassets\msbuild.EmployeeAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.EmployeeAPI.props
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeAPI.props
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EmployeeAPI.props
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\Employee.D48F0156.Up2Date
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.dll
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\refint\EmployeeAPI.dll
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.pdb
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.genruntimeconfig.cache
+C:\Users\kashy\OneDrive\Desktop\Tester\EmployeeAPI\obj\Debug\net9.0\ref\EmployeeAPI.dll
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.staticwebassets.endpoints.json
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.exe
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.deps.json
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.runtimeconfig.json
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.dll
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\bin\Debug\net9.0\EmployeeAPI.pdb
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.csproj.AssemblyReference.cache
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.AssemblyInfoInputs.cache
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.AssemblyInfo.cs
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.csproj.CoreCompileInputs.cache
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\scopedcss\bundle\EmployeeAPI.styles.css
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\staticwebassets\msbuild.EmployeeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\staticwebassets\msbuild.EmployeeAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.EmployeeAPI.props
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeAPI.props
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EmployeeAPI.props
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\Employee.D48F0156.Up2Date
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.dll
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\refint\EmployeeAPI.dll
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.pdb
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\EmployeeAPI.genruntimeconfig.cache
+C:\Users\kashy\OneDrive\Desktop\Angular Project\EmployeeAPI\obj\Debug\net9.0\ref\EmployeeAPI.dll
